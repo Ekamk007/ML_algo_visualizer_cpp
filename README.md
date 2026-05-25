@@ -16,8 +16,11 @@ OOP (Classes, Inheritance, Polymorphism)
 Data Structures (STL)
 Basic Algorithm Simulation
 
+📁 Project Structure
 ML-Visualizer/
 │
 ├── ml_visualizer_v2
 ├── README.md
 
+👨‍💻 Author
+Ekam Kataria
