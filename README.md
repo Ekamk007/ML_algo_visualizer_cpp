@@ -19,7 +19,7 @@ Basic Algorithm Simulation
 📁 Project Structure
 ML-Visualizer/
 │
-├── ml_visualizer_v2
+├── ml_visualizer_v2.cpp
 ├── README.md
 
 👨‍💻 Author
